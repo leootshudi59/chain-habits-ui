@@ -50,9 +50,11 @@
     "tuto1_title": "Mise ta réussite",
     "tuto1_desc": "Sur ChainHabits, ta parole ne suffit pas. Tu verrouilles des tokens dans un Smart Contract pour prouver ta motivation.",
     "tuto2_title": "Prouve tes efforts",
-    "tuto2_desc": "Chaque jour, valide tes habitudes manuellement ou connecte Strava, GitHub et Apple Health pour une validation automatique.",
-    "tuto3_title": "Récolte les gains",
-    "tuto3_desc": "À la fin, ceux qui ont tenu récupèrent leur mise + une part du pot de ceux qui ont abandonné."
+    "tuto2_desc": "Valide tes habitudes manuellement ou connecte Strava, GitHub et Apple Health pour une validation automatique.",
+    "tuto3_title": "Gagne le Pot",
+    "tuto3_desc": "La distribution est simple : les plus performants se partagent les mises de ceux qui ont abandonné.",
+    "tuto4_title": "Collectionne les Trophées",
+    "tuto4_desc": "Débloque des NFTs rares et des badges on-chain pour prouver tes streaks et tes exploits à long terme."
   },
   "Dashboard": {
     "welcome": "Bienvenue sur ton Dashboard",
