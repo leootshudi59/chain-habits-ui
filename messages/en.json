@@ -113,5 +113,26 @@
     "featured_badge": "Featured",
     "create_btn": "Create",
     "featured_desc": "The ultimate challenge. 60 days. $1000 stake. Only the 1% will survive."
+  },
+  "Social": {
+    "title": "Community",
+    "tab_feed": "Feed",
+    "tab_ranking": "Ranking",
+    "tab_friends": "Friends",
+    "subtab_all": "Everyone",
+    "subtab_friends_only": "Friends Only",
+    "empty_feed": "No recent activity for this filter.",
+    "verification_title": "The Tribunal",
+    "verification_desc": "Validate {name}'s proof to unlock their earnings.",
+    "btn_legit": "Legit (Approve)",
+    "btn_fake": "Reject (Fake)",
+    "activity_validated": "validated",
+    "activity_slashed": "got slashed",
+    "activity_joined": "joined",
+    "activity_failed": "failed the mission",
+    "streak_label": "{count} d 🔥",
+    "search_friends": "Find a friend...",
+    "invite_btn": "Invite Friends",
+    "group_tag": "Friends Group"
   }
 }

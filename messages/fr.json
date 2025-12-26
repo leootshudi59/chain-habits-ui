@@ -113,5 +113,26 @@
     "featured_badge": "À la une",
     "create_btn": "Créer",
     "featured_desc": "Le challenge ultime. 60 jours. 1000$ de mise. Seuls les 1% survivront."
+  },
+  "Social": {
+    "title": "Communauté",
+    "tab_feed": "Fil d'actu",
+    "tab_ranking": "Classement",
+    "tab_friends": "Amis",
+    "subtab_all": "Tout le monde",
+    "subtab_friends_only": "Amis uniquement",
+    "empty_feed": "Aucune activité récente pour ce filtre.",
+    "verification_title": "Tribunal",
+    "verification_desc": "Valide la preuve de {name} pour débloquer ses gains.",
+    "btn_legit": "Validé (Legit)",
+    "btn_fake": "Rejeter (Fake)",
+    "activity_validated": "a validé",
+    "activity_slashed": "a été pénalisé",
+    "activity_joined": "a rejoint",
+    "activity_failed": "n'a pas accompli sa mission", 
+    "streak_label": "{count} j 🔥",
+    "search_friends": "Chercher un ami...",
+    "invite_btn": "Inviter des amis",
+    "group_tag": "Groupe Friends"
   }
 }

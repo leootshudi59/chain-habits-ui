@@ -113,5 +113,26 @@
     "featured_badge": "Destacado",
     "create_btn": "Crear",
     "featured_desc": "El desafío definitivo. 60 días. Apuesta de $1000. Solo el 1% sobrevivirá."
+  },
+  "Social": {
+    "title": "Comunidad",
+    "tab_feed": "Muro",
+    "tab_ranking": "Ranking",
+    "tab_friends": "Amigos",
+    "subtab_all": "Todos",
+    "subtab_friends_only": "Solo amigos",
+    "empty_feed": "No hay actividad reciente.",
+    "verification_title": "El Tribunal",
+    "verification_desc": "Valida la prueba de {name} para liberar sus ganancias.",
+    "btn_legit": "Legítimo (Aprobar)",
+    "btn_fake": "Rechazar (Fake)",
+    "activity_validated": "validó",
+    "activity_slashed": "fue penalizado",
+    "activity_joined": "se unió a",
+    "activity_failed": "no cumplió su misión",
+    "streak_label": "{count} d 🔥",
+    "search_friends": "Buscar amigo...",
+    "invite_btn": "Invitar Amigos",
+    "group_tag": "Grupo Friends"
   }
 }

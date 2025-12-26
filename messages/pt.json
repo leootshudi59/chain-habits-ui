@@ -113,5 +113,26 @@
     "featured_badge": "Destaque",
     "create_btn": "Criar",
     "featured_desc": "O desafio supremo. 60 dias. Aposta de $1000. Apenas 1% sobreviverá."
+  },
+  "Social": {
+    "title": "Comunidade",
+    "tab_feed": "Feed",
+    "tab_ranking": "Ranking",
+    "tab_friends": "Amigos",
+    "subtab_all": "Todos",
+    "subtab_friends_only": "Só Amigos",
+    "empty_feed": "Nenhuma atividade recente para este filtro.",
+    "verification_title": "O Tribunal",
+    "verification_desc": "Valide a prova de {name} para liberar os ganhos.",
+    "btn_legit": "Legítimo (Aprovar)",
+    "btn_fake": "Rejeitar (Fake)",
+    "activity_validated": "validou",
+    "activity_slashed": "foi penalizado",
+    "activity_joined": "entrou em",
+    "activity_failed": "não cumpriu a missão",
+    "streak_label": "{count} d 🔥",
+    "search_friends": "Buscar amigo...",
+    "invite_btn": "Convidar Amigos",
+    "group_tag": "Grupo Friends"
   }
 }

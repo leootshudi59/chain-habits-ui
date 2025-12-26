@@ -41,7 +41,7 @@ export default function ChallengesPage() {
     // NOUVEAU CHALLENGE : AMIS
     {
       id: 5,
-      title: "Amiiiigos",
+      title: "Friends",
       status: "active",
       daysLeft: 24,
       stake: 30,
